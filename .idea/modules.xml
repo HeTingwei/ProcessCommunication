@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDL/AIDL.iml" filepath="$PROJECT_DIR$/AIDL/AIDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProvider_provider/ContentProvider_provider.iml" filepath="$PROJECT_DIR$/ContentProvider_provider/ContentProvider_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProvider_reader/ContentProvider_reader.iml" filepath="$PROJECT_DIR$/ContentProvider_reader/ContentProvider_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Messenger/Messenger.iml" filepath="$PROJECT_DIR$/Messenger/Messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessCommunication.iml" filepath="$PROJECT_DIR$/ProcessCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
+    </modules>
+  </component>
+</project>
